@@ -149,10 +149,7 @@ namespace Admin
                                 new MenuItem()
                                 {
                                     Text = "Beheer het Admin account\n",
-                                    HasSubMenu = true,
-                                    SubMenuId = 1
-
-
+                                    HasSubMenu = false
                                 },
                                 new MenuItem()
                                 {
